@@ -1,7 +1,8 @@
 # Contact Book
 
 # Step 1:Initalize an empty contact book
-contacts = {}
+contacts = {}  # Sözlük veri yapısı kullanarak iletişim defteri oluşturuyoruz.
+# Bu sözlük, kişilerin adlarını anahtar olarak kullanacak ve her kişinin telefon numarasını ve e-posta adresini içeren bir alt sözlük olarak saklayacaktır.
 
 # Step 2: Menüyü göster
 

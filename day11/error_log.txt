@@ -1,0 +1,2 @@
+Sıfıra bölme hatası! Lütfen sıfırdan farklı bir sayı girin.
+Sıfıra bölme hatası! Lütfen sıfırdan farklı bir sayı girin.
